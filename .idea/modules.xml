@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day04_code/day04_code.iml" filepath="$PROJECT_DIR$/day04_code/day04_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_code/day05_code.iml" filepath="$PROJECT_DIR$/day05_code/day05_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_code/day06_code.iml" filepath="$PROJECT_DIR$/day06_code/day06_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_code/day11_code.iml" filepath="$PROJECT_DIR$/day11_code/day11_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_code/day12_code.iml" filepath="$PROJECT_DIR$/day12_code/day12_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_code/day13_code.iml" filepath="$PROJECT_DIR$/day13_code/day13_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_code_temp/day14_code.iml" filepath="$PROJECT_DIR$/day14_code_temp/day14_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15_code/day15_code.iml" filepath="$PROJECT_DIR$/day15_code/day15_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_code/day16_code.iml" filepath="$PROJECT_DIR$/day16_code/day16_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_code_temp/day17_code.iml" filepath="$PROJECT_DIR$/day17_code_temp/day17_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19_code/day19_code.iml" filepath="$PROJECT_DIR$/day19_code/day19_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24_code/day24_code.iml" filepath="$PROJECT_DIR$/day24_code/day24_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25_code/day25_code.iml" filepath="$PROJECT_DIR$/day25_code/day25_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26_code/day26_code.iml" filepath="$PROJECT_DIR$/day26_code/day26_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day27_code/day27_code.iml" filepath="$PROJECT_DIR$/day27_code/day27_code.iml" />
+    </modules>
+  </component>
+</project>
